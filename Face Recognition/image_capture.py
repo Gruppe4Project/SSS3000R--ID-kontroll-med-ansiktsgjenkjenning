@@ -19,9 +19,9 @@ DB_USER = "group4"
 DB_PASSWORD = "moh76med"
 DB_NAME = "id_control"
 
-# ✅ Email SMTP-server details
-EMAIL_SENDER = "mohammed.morjane76@gmail.com"
-EMAIL_PASSWORD = "hdab bgkt sqge iqsy"
+# ✅ Email SMTP-server details (sett inn dine egne detaljer her før bruk)
+EMAIL_SENDER = "din.epost@gmail.com"  # ← Legg inn din egen gmail e-postadresse
+EMAIL_PASSWORD = "ditt_app_passord"        # ← Bruk Gmail-app-passord, ikke vanlig passord!
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 465
 
