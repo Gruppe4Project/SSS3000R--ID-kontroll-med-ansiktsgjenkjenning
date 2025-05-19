@@ -94,7 +94,8 @@ import mysql.connector
 import time
 
 # ✅ Replace this with your actual LocationIQ API Key
-LOCATIONIQ_API_KEY = "pk.ff5c1353eb087d1902b0fbfc35c24e84"
+LOCATIONIQ_API_KEY = "SETT_DIN_EGEN_API_NØKKEL_HER"
+
 
 # ✅ Use exact GPS coordinates for better accuracy
 LATITUDE = 60.153042 # 🔹 Replace with your exact latitude
