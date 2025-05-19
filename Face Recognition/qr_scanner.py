@@ -101,7 +101,8 @@ def check_person_in_database(qr_data):
 
 
 # ✅ LocationIQ API Configuration
-LOCATIONIQ_API_KEY = "pk.ff5c1353eb087d1902b0fbfc35c24e84"
+LOCATIONIQ_API_KEY = "SETT_DIN_EGEN_API_NØKKEL_HER"
+
 LATITUDE = 60.153042
 LONGITUDE = 10.262770
 
