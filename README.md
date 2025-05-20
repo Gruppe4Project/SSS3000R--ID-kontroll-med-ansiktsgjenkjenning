@@ -18,7 +18,7 @@ Formålet er å erstatte manuell ID-sjekk med et sikkert, effektivt system baser
 - Raspberry Pi 4
 - Picamera2
 - MicroSD-kort
-- LED-lys (🔵🟢🟠🔴)
+- LED-lys
 - LCD-skjerm
 - GPIO-moduler
 
