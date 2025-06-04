@@ -38,8 +38,8 @@ turn_off_leds()
 
 # ✅ Database Connection Details
 DB_HOST = "localhost"
-DB_USER = "group4"
-DB_PASSWORD = "moh76med"
+DB_USER = "din_user"
+DB_PASSWORD = "din_password"
 DB_NAME = "id_control"
 
 cv_scaler = 4  # ✅ Keep the same scaling factor as face recognition
