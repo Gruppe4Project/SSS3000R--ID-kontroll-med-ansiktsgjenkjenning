@@ -84,8 +84,8 @@ def get_user_info(username):
     try:
         conn = mysql.connector.connect(
             host="localhost",
-            user="din user",
-            password="din password",
+            user="din_user",
+            password="din_password",
             database="id_control"
         )
         cursor = conn.cursor()
