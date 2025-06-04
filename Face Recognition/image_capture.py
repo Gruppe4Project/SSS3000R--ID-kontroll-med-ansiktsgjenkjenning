@@ -15,8 +15,8 @@ from PIL import Image, ImageTk
 from email.message import EmailMessage
 # ✅ Database Connection Details
 DB_HOST = "localhost"
-DB_USER = "din User"
-DB_PASSWORD = "din password"
+DB_USER = "din_User"
+DB_PASSWORD = "din_password"
 DB_NAME = "id_control"
 
 # ✅ Email SMTP-server details (sett inn dine egne detaljer her før bruk)
